@@ -1,5 +1,5 @@
 const clientId = 'c36287e9421e40e0849a5ca233abe6bb';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://spiky-doctor.surge.sh';
 
 let accessToken;
 let expiresIn;
